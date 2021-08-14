@@ -17,6 +17,11 @@ This repository has the multiple Python Projects from basic to advance, which I 
     - Password Verification
     - Random Card Pick from Deck
     - Tic Tac Toe
+
+- Graphics Projects
+    - Caterpillar.py
+    - Match Pair
+    
 - Data Resource
     - DictionaryData.json file for Dictionary Project
 
