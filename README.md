@@ -20,7 +20,11 @@ This repository has the multiple Python Projects from basic to advance, which I 
 
 - Graphics Projects
     - Caterpillar.py
+    - Egg Catcher
+    - Indian Flag
     - Match Pair
+    - Screen Pet
+    - Smart Calculator
     
 - Data Resource
     - DictionaryData.json file for Dictionary Project
