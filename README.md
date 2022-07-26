@@ -18,8 +18,11 @@ This repository has the multiple Python Projects from basic to advance, which I 
     - Random Card Pick from Deck
     - Tic Tac Toe
 
+- Data Projects
+    - Plotter
+    
 - Graphics Projects
-    - Caterpillar.py
+    - Caterpillar
     - Egg Catcher
     - Indian Flag
     - Match Pair
